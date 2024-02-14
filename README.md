@@ -1,7 +1,7 @@
 # 💫 About Me:
 R&D Engineer at the University of Arizona studying the biology of aging<br>|| Robotics || AI || Data science || Biology || 
 <br>
-Do not worry about the upcoming robotic uprising, we still have to code them first
+Do not worry about the upcoming robotic uprising, we still have to code them
 
 
 # 💻 Tech Stack:

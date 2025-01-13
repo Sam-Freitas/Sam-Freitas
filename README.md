@@ -3,9 +3,7 @@ R&D Engineer at the University of Arizona studying the biology of aging<br>|| Ro
 <br>
 Do not worry about the upcoming robotic uprising, we still have to code them
 
-[RESUME](https://drive.google.com/file/d/15t_gh9sYjFdn31iP6kiJ2OOHjFpB2JZ0/view?usp=sharing) 
-
-[CV](https://drive.google.com/file/d/1Q5_X2cS97mcCKRelPLtmNWSZob6aJKNq/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1eSzsEpWGgGBXPzSF8YNDrHu2mvODZysh/view?usp=sharing)
 
 
 # 💻 Tech Stack:

@@ -5,7 +5,7 @@ Do not worry about the upcoming robotic uprising, we still have to code them
 
 [CV](https://drive.google.com/file/d/1R5Q7SSGCc1wgDkn6zwhsQQ8xbZKw3Ylw/view?usp=sharing)
 
-[Resume](https://drive.google.com/drive/u/0/folders/1xbW8tJpTrFXs508m1mOo88IIkHhHGCqx)
+[Resume](https://drive.google.com/file/d/1QMW5-jSlpzaAOOAga-BrJc-Sp_Vynnez/view?usp=sharing)
 
 
 # 💻 Tech Stack:
